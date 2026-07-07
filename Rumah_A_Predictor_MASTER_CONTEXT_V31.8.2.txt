@@ -1,0 +1,122 @@
+RUMAH A PREDICTOR MASTER CONTEXT (V31.8.2)
+
+================================================== STATUS PROJEK
+==================================================
+
+Projek kini dianggap stabil dan lengkap dari segi aliran utama.
+
+History Draw ↓ 4 Model Utama ↓ Anchor Cluster ↓ Pair Assist ↓ Anchor
+Density Signal ↓ AI 3D Overlap ↓ Density Decision Engine (DDE) ↓ Top 5 /
+Ranking ↓ Backend Validation
+
+================================================== FALSAFAH PROJEK
+==================================================
+
+Rumah A Predictor bukan bertujuan memilih nombor secara automatik.
+
+Tujuannya ialah mengecilkan ratusan nombor kepada sekumpulan calon yang
+berkualiti supaya pengguna boleh membuat keputusan berdasarkan
+pengalaman sendiri.
+
+AI bukan menggantikan manusia. AI membantu manusia.
+
+================================================== LAYER 1 – GENERATION
+==================================================
+
+Komponen: - Model Statistik - Model Peralihan Posisi - Model Pasangan -
+Model No Double
+
+Tujuan: Menghasilkan calon nombor berkualiti.
+
+================================================== LAYER 2 – EXPANSION
+==================================================
+
+Komponen: - Anchor Cluster - Pair Assist
+
+Tujuan: Mengembangkan family nombor.
+
+================================================== LAYER 3 – SELECTION
+==================================================
+
+Komponen: - Anchor Density Signal - AI 3D Overlap - Pair Assist Pick -
+Density Decision Engine (DDE)
+
+Tujuan: Mengecilkan pilihan dan menghasilkan ranking serta Top 5.
+
+================================================== LAYER 4 – VALIDATION
+==================================================
+
+Komponen: - Backend Backtest - YES / NO - Hit Source - Pair Assist
+Family - DDE Rank - DDE Group
+
+Tujuan: Menilai prestasi sebenar sistem menggunakan data sejarah.
+
+================================================== PRINSIP PENTING
+==================================================
+
+Rumah A Predictor tidak mengejar ramalan tepat setiap draw.
+
+Objektif sebenar: - Coverage tinggi - Selection lebih baik - Konsisten
+dalam jangka panjang
+
+================================================== DENSITY DECISION
+ENGINE (DDE) ==================================================
+
+Density ↓ AI 3D Overlap ↓ Pair Assist Pick ↓ Ranking ↓ Top 5
+
+Peranan DDE: Bukan menghasilkan nombor baru. Tetapi memilih nombor
+terbaik daripada semua nombor yang telah dijana.
+
+================================================== BACKEND PHILOSOPHY
+==================================================
+
+Backend bukan sekadar YES / NO.
+
+Backend digunakan untuk mengetahui: - Dari layer mana hit datang. -
+Family mana menghasilkan hit. - Ranking DDE yang menghasilkan hit. -
+Komponen mana paling banyak menyumbang kepada kemenangan.
+
+================================================== MASA DEPAN (DISIMPAN)
+==================================================
+
+Historical Validation Mode
+
+Gunakan keseluruhan history ±34 tahun.
+
+History ↓ Prediction ↓ Banding Result ↓ Simpan Semua Metric ↓ Ulang
+Hingga Draw Terkini
+
+Tujuan: Membina pangkalan data prestasi sebenar bagi setiap komponen
+sistem.
+
+================================================== FUTURE ANALYTICS
+DASHBOARD ==================================================
+
+Cadangan masa depan:
+
+-   Hit mengikut DDE Rank
+-   Hit mengikut Score
+-   Hit mengikut Density Support
+-   Hit mengikut AI Overlap
+-   Hit mengikut Model
+-   Hit mengikut Pair Assist Family
+
+Semuanya berdasarkan data sebenar.
+
+================================================== PRINSIP PEMBANGUNAN
+==================================================
+
+Idea ↓ Implement ↓ Backend Test ↓ Analisis Data ↓ Simpan atau Rollback
+
+Semua keputusan dibuat berdasarkan data, bukan perasaan.
+
+================================================== FALSAFAH PROJEK
+==================================================
+
+“If you know how the randomness works, it’s not random anymore.”
+
+Rumah A Predictor tidak cuba menghapuskan unsur rawak. Ia cuba memahami
+corak yang tersembunyi di sebalik data sejarah, kemudian menggunakan
+corak tersebut untuk membantu manusia membuat pilihan yang lebih baik.
+
+Tamat.
